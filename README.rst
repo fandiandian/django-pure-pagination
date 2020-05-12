@@ -1,5 +1,5 @@
 ======================
-django-pure-pagination
+nick-test-pagination
 ======================
 
 .. image:: https://travis-ci.org/jamespacileo/django-pure-pagination.svg?branch=master
@@ -9,12 +9,13 @@ Description
 ======================
 
 :Author:
-    James Pacileo `@ignighted <http://twitter.com/ignighted>`_
+    nick
 
 :Version:
-    0.3.0
+    1.0.0
 
 :Description:
+    this project is fork from https://github.com/jamespacileo/django-pure-pagination/.
     django-pure-pagination provides advanced pagination features and is fully compatible with existing code based on Django's core pagination module. (aka no need to rewrite code!)
 
 :Requirements:
@@ -52,13 +53,13 @@ Install package from PYPI:
 
 ::
 
-    pip install django-pure-pagination
+    pip install nick-test-pagination
 
 or clone and install from repository:
 
 ::
 
-    git clone git@github.com:jamespacileo/django-pure-pagination.git
+    git clone git@github.com:fandiandian/django-pure-pagination.git
     cd django-pure-pagination
     python setup.py install
 
